@@ -56,3 +56,6 @@ python face_training.py
 ```python
 python face_recognition.py
 ```
+
+## Main Reference:
+[Real-Time Face Recognition: An End-To-End Project](https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348)
