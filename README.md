@@ -47,9 +47,17 @@ Enter user id end press <return> ==> 1
 9) Create a **trainer** folder in the same directory as script.
 10)  After dataset has been created, train a classifier on your face images.
 
+* First update **line 16**
+ 
+ ```python
+ names = ['None'] # add your name corresponding to the id number like, 
+ # names = ['None', 'Vaibhav', ...]
+ ```
+
 ```python
 python face_training.py
 ```
+
 
 11)  After training, for recognition demo, execute:
 
